@@ -1,9 +1,6 @@
 '''
 Image Processing
 Assignment 1
-
-Eric Ribero Augusto
-no.USP 10295242
 '''
 
 import numpy as np
